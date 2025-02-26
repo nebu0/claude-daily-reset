@@ -1,4 +1,4 @@
-# Claude Token Reset Automation
+# Claude Daily Reset
 
 An invisible automation script for macOS that opens Claude AI at a scheduled time each day to reset token allocation. Features Wi-Fi network verification, security protection, and intelligent state preservation. Works even when your Mac is asleep, with no visible windows during execution.
 
@@ -25,7 +25,7 @@ An invisible automation script for macOS that opens Claude AI at a scheduled tim
 
 ### Method 1: Automated Installation Script (Recommended)
 
-The easiest way to install is using the automated installation script:
+The easiest way to install is using our automated installation script:
 
 ```bash
 curl -s https://raw.githubusercontent.com/nebu0/claude-daily-reset/main/install.sh | bash
@@ -120,7 +120,7 @@ All security settings are restored after execution.
 ## 🗑️ Uninstallation
 
 ### Automatic Uninstallation
-To completely remove Claude Token Reset Automation:
+To completely remove Claude Daily Reset:
 
 ```bash
 curl -s https://raw.githubusercontent.com/nebu0/claude-daily-reset/main/uninstall.sh | bash
