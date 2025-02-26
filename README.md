@@ -40,7 +40,7 @@ This script will:
 
 ### Method 2: Direct Script
 
-1. **Download** `claude-token-reset.applescript` from this repository
+1. **Download** `claude-daily-reset.applescript` from this repository
 2. **Open** with Script Editor (AppleScript Editor)
 3. **Modify** the Wi-Fi network name and browser settings (lines 16-19)
 4. **Save** as a compiled script (.scpt file) in your Applications folder
@@ -51,7 +51,7 @@ This script will:
 
 1. **Open Automator** and create a new Application
 2. **Add** the "Run AppleScript" action
-3. **Paste** the contents of `claude-token-reset.applescript`
+3. **Paste** the contents of `claude-daily-reset.applescript`
 4. **Save** the application to your Applications folder
 5. **Follow** steps 5-6 from Method 2, but select your Automator app instead
 
