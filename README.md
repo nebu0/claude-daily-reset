@@ -123,7 +123,7 @@ All security settings are restored after execution.
 To completely remove Claude Token Reset Automation:
 
 ```bash
-curl -s https://raw.githubusercontent.com/nebu0/claude-token-reset-automation/main/uninstall.sh | bash
+curl -s https://raw.githubusercontent.com/nebu0/claude-daily-reset/main/uninstall.sh | bash
 ```
 
 ### Manual Uninstallation
