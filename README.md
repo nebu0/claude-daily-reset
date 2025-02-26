@@ -25,7 +25,7 @@ An invisible automation script for macOS that opens Claude AI at a scheduled tim
 
 ### Method 1: Automated Installation Script (Recommended)
 
-The easiest way to install is using our automated installation script:
+The easiest way to install is using the automated installation script:
 
 ```bash
 curl -s https://raw.githubusercontent.com/nebu0/claude-token-reset-automation/main/install.sh | bash
